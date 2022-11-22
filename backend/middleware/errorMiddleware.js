@@ -1,4 +1,4 @@
-//function that execute during the reqest
+//function that execute during the reqest/respone sycle
 
 //override the default throw errr of express
 const errorHandler = (err, req, res, next) => {
